@@ -211,8 +211,8 @@ public class ResponsiUTSDefaAugistaMontaineDhanartoPutera {
         Produk makanan = new Makanan("Roti", 15000, "2024-01-01");
 
         // Membuat objek PegawaiTetap dan PegawaiKontrak
-        Pegawai pegawaiTetap = new PegawaiTetap("Andi", 7000000, 2000000);
-        Pegawai pegawaiKontrak = new PegawaiKontrak("Budi", 5000000, 12);
+        Pegawai pegawaiTetap = new PegawaiTetap("Mulyono", 7000000, 2000000);
+        Pegawai pegawaiKontrak = new PegawaiKontrak("Suparjo", 5000000, 12);
 
         // Polimorfisme: Memanggil metode menggunakan referensi kelas induk
         System.out.println("Informasi Produk:");
